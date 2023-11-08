@@ -4,6 +4,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Customers",
+  description: "List of customers along with invoice",
 };
 
 export default async function Page({
